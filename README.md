@@ -3,8 +3,7 @@ You can call me Ashu.<br />
 
 - I can do Spring & React with AWS.<br />
 - Micro-Controller? I have experience with Arduino/RPI.<br />
-- 🔭 I’m currently working on SPLiT
-
+- 🔭 I’m currently working on SPLiT @ https://liveonsplit.com/
 If you have a gig, ping me at aashutosh.g27@gmail.com and consider it delivered.<br />
 
 - 📫 How to reach me: ...<br />
